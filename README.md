@@ -65,7 +65,7 @@ Show a learning based example in comparison to a voxe-wise regression.
 Demonstrate activation maps, individual-level interpretation of activations, learning, pre-trained networks, fine-tuning, deep feature maps.  
 
 
-## 4. Ask us about
+## 5. Ask us about
 
 * neuroimaging modalities:  DTI, PET, ASL, BOLD fMRI, microscopy
 
