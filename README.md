@@ -69,8 +69,10 @@ Demonstrate activation maps, individual-level interpretation of activations, lea
 
 * neuroimaging modalities:  DTI, PET, ASL, BOLD fMRI, microscopy
 
-* animal studies
+* non-human primate and other animal studies
 
-* ?
+* population variability:  baby brains, atrophy/neurodegeneration, stroke/lesions, etc.
+
+* integration of imaging and genetics, psychometrics, etc.
 
 
