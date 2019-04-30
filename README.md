@@ -1,4 +1,5 @@
-# ANTsEcosystemOverview
+# ANTs Ecosystem Overview
+
 Brief introductory material showcasing R and Python wrapping of ANTs functionality
 
 
