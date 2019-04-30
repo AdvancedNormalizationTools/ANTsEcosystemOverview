@@ -77,4 +77,6 @@ Demonstrate activation maps, individual-level interpretation of activations, lea
 
 * integration of imaging and genetics, psychometrics, etc.
 
+* role of these tools in industry e.g. as applications, scientific tools in treatment of disease, etc.
+
 
