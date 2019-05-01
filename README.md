@@ -2,81 +2,84 @@
 
 Brief introductory material showcasing R and Python wrapping of ANTs functionality
 
+# 9:15 - 10: Special Intro to ANTS (for ICERM grads and postdocs)
 
-## 1. Setup
+* background (discussed in parallel with installation)
 
-### compile from source
+    * ITK and ANTs
+ 
+    * ANTs history and current development strategy
 
-    * ANTs
+    * Information resources (GitHub, Sourceforge)
+
+* installation
+
     * ANTsR
+
     * ANTsPy
-    
-### install from release
 
-    * ANTsR
-    * ANTsPy
-    
-### containers    
-    
-### testing
+# 10:30 - 12: Intro to ANTs for Medical Imaging
 
-    * C++
-    * ANTsR
-    * ANTsPy
-    
-## 2. Image quantification with ANTs
+* Discussion:  ITK definition of images (physical space, transformation, etc.)
 
-Examples in both `R` and `python`.
+* Discussion and working examples:  
 
-### 2.1 Image physical space
+    * image registration
 
+    * image segmentation
 
-### 2.2 Image Transformation
+    * template construction
 
-### 2.3 Image Registration
+    * joint label fusion for anatomical labeling
 
-### 2.4 Image Segmentation
+    * functional MRI quantification
 
-### 2.5 Building a template
+# 12 - 1:30: Lunch
 
-### 2.6 Anatomical labeling
+# 1:30 - 3: Deep Learning and Statistical Approaches in Medical Imaging
 
-### 2.7 Functional MRI Quantification
+* Discussion:  Overview of ANTsRNet
 
+    * Tensorflow + Keras
 
-## 3. Deep learning with ANTs
+    * pre-trained networks
 
-Build on previous examples to demonstrate how image registration, templates and segmentation relate to concepts in deep learning.
+* Discussion and working examples:  
 
-### 3.1 Segmentation with UNets
+    * U-net segmentation with template-based augmentation
 
-### 3.2 Template-based augmentation
+        * brain extraction
+ 
+       * brain segmentation (whole image, patch-based)
 
-### 3.3 Deep learning based regression
+       * tumor segmentation
 
-#### 3.3.1 Super-resolution
+    * Deep learning-based regression
 
-#### 3.3.2 ResNets and related
+        * super-resolution
 
-## 4. Statisitical inference and interpretable deep learning with ANTs
+       * Res-nets and other architectures
 
-Connect deep learning to regression, clustering and other statistical concepts.
+* Other possible topics (time permitting)
 
-Show a learning based example in comparison to a voxe-wise regression.
+    * clustering
 
-Demonstrate activation maps, individual-level interpretation of activations, learning, pre-trained networks, fine-tuning, deep feature maps.  
+    * activation maps
 
+    * deep feature maps
 
-## 5. Ask us about
+# 3:30 - 4:30: "Ask us about…” audience-motivated discussion of other topics
 
-* neuroimaging modalities:  DTI, PET, ASL, BOLD fMRI, microscopy
+* Possible topics:
 
-* non-human primate and other animal studies
+    * neuroimaging modalities:  DTI, PET, ASL, BOLD fMRI, microscopy
 
-* population variability:  baby brains, atrophy/neurodegeneration, stroke/lesions, etc.
+    * non-human primate and other animal studies
 
-* integration of imaging and genetics, psychometrics, etc.
+    * other organs:  lungs, heart
 
-* role of these tools in industry e.g. as applications, scientific tools in treatment of disease, etc.
+    * population variability:  baby brains, neurodegeneration, stroke/lesions, etc.
 
+    * integration of imaging, genetics, psychometrics, etc.
 
+    * role of these tools in industry as applications, scientific tools in treatment of disease, etc.
