@@ -2,7 +2,7 @@
 
 Brief introductory material showcasing R and Python wrapping of ANTs functionality
 
-# 9:15 - 10: Special Intro to ANTS (for ICERM grads and postdocs)
+# 9:15 - 10: Special Intro to ANTs (for ICERM grads and postdocs)
 
 * background (discussed in parallel with installation)
 
