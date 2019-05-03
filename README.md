@@ -17,6 +17,12 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
     * [ANTsR](https://github.com/ANTsX/ANTsR)
 
     * [ANTsPy](https://github.com/ANTsX/ANTsPy)
+    
+    * python docker/binder: https://github.com/stnava/ANTsPyDocker https://mybinder.org/v2/gh/stnava/ANTsPyDocker/master
+
+    * R docker/binder: https://github.com/stnava/ANTsRDocker https://mybinder.org/v2/gh/stnava/ANTsRDocker/master
+
+these will evolve as our tutorial material matures.
 
 # 10:30 - 12: Intro to ANTs for Medical Imaging
 
