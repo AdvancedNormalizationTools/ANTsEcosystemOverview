@@ -8,7 +8,7 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
     * [ITK](https://github.com/InsightSoftwareConsortium/ITK) and [ANTs](https://github.com/ANTsX/ANTs)
  
-    * ANTs history and current development strategy [google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=%22Nicholas+tustison%22+or+%22Brian+avants%22&btnG=)
+    * ANTs history and current development strategy ( [google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=%22Nicholas+tustison%22+or+%22Brian+avants%22&btnG=) )
 
     * Information resources (GitHub, Sourceforge)
 
@@ -38,7 +38,7 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
 # 1:30 - 3: Deep Learning and Statistical Approaches in Medical Imaging
 
-* Discussion:  Overview of ANTsRNet
+* Discussion:  Overview of [ANTsRNet](https://github.com/ANTsX/ANTsRNet) a collection of deep learning tools for biomedical image quantification
 
     * Tensorflow + Keras
 
@@ -80,6 +80,6 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
     * population variability:  baby brains, neurodegeneration, stroke/lesions, etc.
 
-    * integration of imaging, genetics, psychometrics, etc.
+    * integration of imaging, genetics, psychometrics, socioeconomic status etc.
 
     * role of these tools in industry as applications, scientific tools in treatment of disease, etc.
