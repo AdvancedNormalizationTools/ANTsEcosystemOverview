@@ -6,17 +6,17 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
 * background (discussed in parallel with installation)
 
-    * ITK and ANTs
+    * [ITK](https://github.com/InsightSoftwareConsortium/ITK) and [ANTs](https://github.com/ANTsX/ANTs)
  
-    * ANTs history and current development strategy
+    * ANTs history and current development strategy [google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=%22Nicholas+tustison%22+or+%22Brian+avants%22&btnG=)
 
     * Information resources (GitHub, Sourceforge)
 
-* installation
+* installation: see [https://github.com/stnava/ANTsRPy](https://github.com/stnava/ANTsRPy) and [https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS](https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
 
-    * ANTsR
+    * [ANTsR](https://github.com/ANTsX/ANTsR)
 
-    * ANTsPy
+    * [ANTsPy](https://github.com/ANTsX/ANTsPy)
 
 # 10:30 - 12: Intro to ANTs for Medical Imaging
 
@@ -24,15 +24,15 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
 * Discussion and working examples:  
 
-    * image registration
+    * mapping biomedical images for statistical analysis and quantification: image registration
 
-    * image segmentation
+    * labeling biomedical images for statistical analysis and quantification: image segmentation
 
-    * template construction
+    * template construction: toward statistical representations of image populations 
 
     * joint label fusion for anatomical labeling
 
-    * functional MRI quantification
+    * functional MRI quantification - time permitting [https://github.com/stnava/structuralFunctionalJointRegistration](https://github.com/stnava/structuralFunctionalJointRegistration)
 
 # 12 - 1:30: Lunch
 
