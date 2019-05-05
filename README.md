@@ -21,6 +21,10 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
     * python docker/binder: https://github.com/stnava/ANTsPyDocker https://mybinder.org/v2/gh/stnava/ANTsPyDocker/master
 
     * R docker/binder: https://github.com/stnava/ANTsRDocker https://mybinder.org/v2/gh/stnava/ANTsRDocker/master
+    
+    * Joint R and python binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stnava/ANTsRPy/master)
+        * launch and go to "New" -> Rstudio -> File -> open -> ANTsX_R_Python.Rmd -> knit to html ( might need to allow popup windows )
+
 
 these will evolve as our tutorial material matures.
 
