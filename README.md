@@ -12,19 +12,25 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
     * Information resources (GitHub, Sourceforge)
 
-* installation: see [https://github.com/stnava/ANTsRPy](https://github.com/stnava/ANTsRPy) and [https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS](https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
+* installation:
 
     * [ANTsR](https://github.com/ANTsX/ANTsR)
 
     * [ANTsPy](https://github.com/ANTsX/ANTsPy)
     
-    * python docker/binder: https://github.com/stnava/ANTsPyDocker https://mybinder.org/v2/gh/stnava/ANTsPyDocker/master
+    * python docker/binder: 
+        * https://mybinder.org/v2/gh/stnava/ANTsPyDocker/master
+        * https://hub.docker.com/r/stnava/antspy
 
-    * R docker/binder: https://github.com/stnava/ANTsRDocker https://mybinder.org/v2/gh/stnava/ANTsRDocker/master
+    * R docker/binder: 
+        * https://mybinder.org/v2/gh/stnava/ANTsRDocker/master
+        * https://hub.docker.com/r/stnava/antsr
     
     * Joint R and python binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stnava/ANTsRPy/master)
         * launch and go to "New" -> Rstudio -> File -> open -> ANTsX_R_Python.Rmd -> knit to html ( might need to allow popup windows )
+        * docker image:  https://hub.docker.com/r/stnava/antsrpy
 
+    * for core ANTs:  [on linux and osx](https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
 
 these will evolve as our tutorial material matures.
 
