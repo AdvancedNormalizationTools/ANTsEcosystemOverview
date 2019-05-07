@@ -11,6 +11,8 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
     * ANTs history and current development strategy ( [google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=%22Nicholas+tustison%22+or+%22Brian+avants%22&btnG=) )
 
     * Information resources (GitHub, Sourceforge)
+        * ANTsR core documentation [here](https://antsx.github.io/ANTsR/) - see the "Articles" link
+        * ANTsPy core documentation [here](https://github.com/ANTsX/ANTsPy/tree/master/tutorials)
 
 * installation:
 
