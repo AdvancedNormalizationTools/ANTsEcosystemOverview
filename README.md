@@ -14,7 +14,7 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
         * ANTsR core documentation [here](https://antsx.github.io/ANTsR/) - see the "Articles" link
         * ANTsPy core documentation [here](https://github.com/ANTsX/ANTsPy/tree/master/tutorials)
         * Example 2D neurodegenerative condition brain slices [here](https://figshare.com/articles/2D_brain_mapping_and_statistical_analysis_study/5280712)
-        * 
+        * Example 3D pediatric data [here](https://figshare.com/articles/PTBP_Nifti/1190933)
 
 * installation:
 
