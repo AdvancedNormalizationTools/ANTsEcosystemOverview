@@ -1,8 +1,15 @@
-# ANTs Ecosystem Overview
+# ANTs Ecosystem Overview: Toward Practical, Integrative Pattern Theory
 
-Brief introductory material showcasing R and Python wrapping of ANTs functionality
+Overall goal of ANTs Ecosystem:  Enable interpretable, visualizable mapping of high-dimensional spaces, starting with images but extending to modalities such as psychometric, genetics, clinical measurements, etc.
 
-# 9:15 - 10: Special Intro to ANTs (for ICERM grads and postdocs)
+* we will build towards this goal by demonstrating examples that build incrementally on each other
+
+
+# Schedule
+
+Brief introductory material showcasing R and Python wrapping of ANTs functionality.
+
+## 9:15 - 10: Special Intro to ANTs (for ICERM grads and postdocs)
 
 * background (discussed in parallel with installation)
 
@@ -43,9 +50,11 @@ Brief introductory material showcasing R and Python wrapping of ANTs functionali
 
 these will evolve as our tutorial material matures.
 
-# 10:30 - 12: Intro to ANTs for Medical Imaging
+## 10:30 - 12: Intro to ANTs for Medical Imaging
 
-* Discussion:  ITK definition of images (physical space, transformation, etc.)
+* Theoretical framework: "Integrative pattern theory"
+
+* Discussion:  Definition of images (physical space, transformation groups, pairwise mapping, groupwise mapping, etc.)
 
 * Discussion and working examples:  
 
@@ -59,9 +68,9 @@ these will evolve as our tutorial material matures.
 
     * functional MRI quantification - time permitting [https://github.com/stnava/structuralFunctionalJointRegistration](https://github.com/stnava/structuralFunctionalJointRegistration)
 
-# 12 - 1:30: Lunch
+## 12 - 1:30: Lunch
 
-# 1:30 - 3: Deep Learning and Statistical Approaches in Medical Imaging
+## 1:30 - 3: Deep Learning and Statistical Approaches in Medical Imaging
 
 * Discussion:  Overview of [ANTsRNet](https://github.com/ANTsX/ANTsRNet) a collection of deep learning tools for biomedical image quantification
 
@@ -73,7 +82,7 @@ these will evolve as our tutorial material matures.
 
     * U-net segmentation with template-based augmentation
 
-        * brain extraction
+       * brain extraction
  
        * brain segmentation (whole image, patch-based)
 
@@ -81,9 +90,11 @@ these will evolve as our tutorial material matures.
 
     * Deep learning-based regression
 
-        * super-resolution
+       * super-resolution
 
        * Res-nets and other architectures
+       
+       * integrative brain mapping with deep learning as a tool
 
 * Other possible topics (time permitting)
 
